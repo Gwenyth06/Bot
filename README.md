@@ -6,4 +6,6 @@
  I am now hosting this bot on PythonAnywhere which has a free option for hosting specifically Python files with limited resources.
  The important libraries that are used in this project are: BeautifulSoup, Tweepy and Firebase Admin.
 
+ You can find the bot here --> https://twitter.com/MeeedicBot
+
  ![Team-Fortress-2-Medic-Close-Up](https://github.com/Gwenyth06/Bot/assets/53059696/238d8ec0-4068-4f0a-b5ac-41893253d656)
